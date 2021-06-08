@@ -11,6 +11,10 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
+= Cobertura de Código
+
+image::relatorio.png[]
+
 
 = Sistema Bancário para Testes com JUnit 5
 
