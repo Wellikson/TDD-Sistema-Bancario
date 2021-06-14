@@ -11,7 +11,7 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-= Cobertura de Código.
+= Cobertura de Código.image:https://img.shields.io/github/workflow/status/wellikson/TDD-Sistema-Bancario/Banco%20maven[GitHub Workflow Status]
 
 image::relatorio.png[]
 
