@@ -11,7 +11,7 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-= Cobertura de Código
+= Cobertura de Código.
 
 image::relatorio.png[]
 
